@@ -55,12 +55,6 @@ body {
   color: white;
 }
 
-.feature {
-  width: 100%;
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
 .frosty h1 {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
@@ -72,3 +66,20 @@ body {
   font-weight: 200;
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
 }
+
+.feature {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.help-block {
+  color: #ff3333;
+  background-color: #FFEEEE;
+  border-radius: 3px;
+  padding: 2px 8px 2px 8px;
+  margin: 10px
+}
+
+
+
