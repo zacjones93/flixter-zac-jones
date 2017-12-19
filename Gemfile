@@ -50,6 +50,9 @@ gem "fog-aws"
 # performance benifites for using aws gem instead of fog
 gem 'carrierwave-aws'
 
+gem 'stripe'
+
+
 
 # image manipulation
 gem "mini_magick"
