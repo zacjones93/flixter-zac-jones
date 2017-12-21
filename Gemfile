@@ -52,6 +52,7 @@ gem 'carrierwave-aws'
 
 gem 'stripe'
 
+gem 'ranked-model'
 
 
 # image manipulation
