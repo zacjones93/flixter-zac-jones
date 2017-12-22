@@ -54,6 +54,10 @@ gem 'stripe'
 
 gem 'ranked-model'
 
+gem 'jquery-ui-rails'
+
+gem "font-awesome-rails"
+
 
 # image manipulation
 gem "mini_magick"
